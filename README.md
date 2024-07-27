@@ -11,7 +11,7 @@
   <tr>
     <td>
       <p align="center"> 
-        <img src="https://github.com/DevAnhDev/DevAnhDev/blob/main/profile.gif" alt="dev" width="100%"/>
+        <img src="https://github.com/DevAnhDev/DevAnhDev/blob/main/w.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
